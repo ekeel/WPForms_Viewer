@@ -1,6 +1,9 @@
 # WPForms Viewer
 *WPForms Viewer is a plugin that allows you to embed WPForms entry lists and single items using shortcodes.*
 
+## How It Works
+
+
 ## Query Variable Filters
 *These query variables are added to the 'query_vars' filter to allow capturing pertinent data using 'get_query_vars()'.*
   
