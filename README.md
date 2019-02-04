@@ -2,7 +2,15 @@
 *WPForms Viewer is a plugin that allows you to embed WPForms entry lists and single items using shortcodes.*
 
 ## How It Works
+WPForms Viewer uses the database tables created by WPForms to display your data. There are no additional tables/DBs created.
 
+The entry data is not mutable using this plugin, however the meta data for the entries can be appended to. Meaning, you can add notes to the entries that will appear in both the custom and default admin views.
+
+## Capabilities
+| Name | Status | Description |
+| ---- | ------ | ----------- |
+| Entry List | MVP | Display a list of entries for a WPForms form from the DB in a searchable list on a page/post using a shortcode. |
+| Singe Entry | MVP | Display a single WPForms form entry on a page/post using a shortcode with query variables.<br><br>There is an included notes section where new notes can be added. |
 
 ## Query Variable Filters
 *These query variables are added to the 'query_vars' filter to allow capturing pertinent data using 'get_query_vars()'.*
