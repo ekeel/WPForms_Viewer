@@ -10,7 +10,7 @@ The entry data is not mutable using this plugin, however the meta data for the e
 | Name | Status | Description |
 | ---- | ------ | ----------- |
 | Entry List | MVP | Display a list of entries for a WPForms form from the DB in a searchable list on a page/post using a shortcode. |
-| Singe Entry | MVP | Display a single WPForms form entry on a page/post using a shortcode with query variables.<br><br>There is an included notes section where new notes can be added. |
+| Singe Entry | MVP | Display a single WPForms form entry on a page/post using a shortcode with query variables.<br>There is an included notes section where new notes can be added. |
 
 ## Query Variable Filters
 *These query variables are added to the 'query_vars' filter to allow capturing pertinent data using 'get_query_vars()'.*
