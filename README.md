@@ -1,4 +1,6 @@
-<img src="https://github.com/ekeel/WPForms_Viewer/blob/master/md_content/logo_transparent.png" style="max-width:50%; margin-left: 25%; margin-right: 25%;"/>
+<h1 align="center">
+<img src="https://github.com/ekeel/WPForms_Viewer/blob/master/md_content/logo_transparent.png" style="width=200"/>
+</h1>
 
 # WPForms Viewer
 *WPForms Viewer is a plugin that allows you to embed WPForms entry lists and single items using shortcodes.*
