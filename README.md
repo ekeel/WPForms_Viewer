@@ -1,7 +1,7 @@
 # WPForms Viewer
 *WPForms Viewer is a plugin that allows you to embed WPForms entry lists and single items using shortcodes.*
 
-![alt demo-image-1](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-1.png)
+![alt demo-image-4](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-4.png)
 
 ## How It Works
 WPForms Viewer uses the database tables created by WPForms to display your data. There are no additional tables/DBs created.
@@ -29,3 +29,9 @@ The entry data is not mutable using this plugin, however the meta data for the e
 | ------------- | ---------- | ---------------- | ----- | ----------- |
 | wpfv_entries | formid => The ID of the form from WPForms.<br><br>columns => A comma separated list of columns to display in the table.<br><br>single => The page to redirect to for single form entries. | N/A | [wpfv_entries_list formid="<FORM_ID>" columns="<COLUMNS>" single=""] | Allows for displaying WPForms entries in a list on a page via a shortcode. |
 | wpfv_entry | N/A | wpfformid => The ID of the form from WPForms.<br><br>wpfentryid => The ID of the entry to display. | [wpfv_single_entry] | Allows for displaying a single WPForms entry on a page via a shortcode. |
+
+## Demo Images
+![alt demo-image-1](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-1.png)
+![alt demo-image-2](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-2.png)
+![alt demo-image-3](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-3.png)
+![alt demo-image-4](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-4.png)
