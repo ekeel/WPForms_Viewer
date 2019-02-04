@@ -32,13 +32,20 @@ The entry data is not mutable using this plugin, however the meta data for the e
 
 ## Demo Images
 *WPForms Form*
+
 ![alt demo-image-1](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-1.png)
+-----
 
 *WPForms List View*
+
 ![alt demo-image-2](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-2.png)
+-----
 
 *WPForms Single Entry*
+
 ![alt demo-image-3](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-3.png)
+-----
 
 *WPForms Single Entry w/ Notes*
+
 ![alt demo-image-4](https://github.com/ekeel/WPForms_Viewer/raw/master/md_content/dem-form-4.png)
